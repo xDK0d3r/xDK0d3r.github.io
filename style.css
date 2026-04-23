@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0b1120;
+    color: #e2e8f0;
+}
+
+/* Layout */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.profile-pic {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 2px solid #334155;
+    margin-bottom: 15px;
+}
+
+.name {
+    margin: 10px 0;
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+
+.tagline {
+    color: #94a3b8;
+}
+
+/* Cards (sections) */
+.card {
+    background-color: #020617;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid #1e293b;
+}
+
+/* Headings */
+h2 {
+    margin-top: 0;
+    color: #38bdf8;
+}
+
+/* Links */
+a {
+    color: #38bdf8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
