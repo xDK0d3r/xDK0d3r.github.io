@@ -8,7 +8,8 @@ Web Security learner focused on identifying and exploiting web vulnerabilities, 
   - Retrieving Hidden Data (Completed)
 
 ## 📝 Writeups
-- Retrieving Hidden Data using SQL Injection
+- [Retrieving Hidden Data](./SQL-Injection/retrieving-hidden-data.md)
+- [Login Bypass](./SQL-Injection/sqli-login-bypass.md)
 
 ## 🔗 Links
 - Portfolio: https://xDK0d3r.github.io
