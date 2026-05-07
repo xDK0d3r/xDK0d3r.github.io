@@ -1,15 +1,14 @@
 # 👨‍💻 xDK0d3r Portfolio
 
-## 🔐 About Me
-Web Security learner focused on identifying and exploiting web vulnerabilities, and documenting findings through structured writeups.
+## 🚀 About Me
+Aspiring backend developer currently learning modern web development through hands-on projects and continuous practice.
 
-## 🧪 Labs Completed
-- PortSwigger SQL Injection Labs
-  - Retrieving Hidden Data (Completed)
+## 🛠️ Skills
+- JavaScript (in progress)
 
-## 📝 Writeups
-- [Retrieving Hidden Data](./SQL-Injection/retrieving-hidden-data.md)
-- [Login Bypass](./SQL-Injection/sqli-login-bypass.md)
+## 📂 Projects
+Projects will be added here as I continue building and learning.
 
 ## 🔗 Links
 - Portfolio: https://xDK0d3r.github.io
+- GitHub: https://github.com/xDK0d3r
