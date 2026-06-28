@@ -2,13 +2,16 @@
 
 My personal portfolio website showcasing my Python backend projects, technical skills, and developer journey.
 
-> 🚧 This portfolio is currently under development and will be updated as new projects and features are added.
+> [!NOTE]
+> **🚀 Project Status: Active Development**
+>
+> This portfolio website is live and actively maintained. New projects and their documentation are added as they are completed, and the website continues to evolve with design improvements, new features, and ongoing refinements.
 
 ---
 
 ## 🌐 Website
 
-Coming Soon
+**Portfolio Website Link:** https://xdk0d3r.github.io/
 
 ---
 
@@ -42,8 +45,8 @@ This repository contains the source code for my personal portfolio website.
 
 - **GitHub:** https://github.com/xDK0d3r
 - **Dev.to:** https://dev.to/xdk0d3r
-- **LinkedIn:** *Coming Soon*
-- **X (Twitter):** *Coming Soon*
+- **LinkedIn:** https://www.linkedin.com/in/dhanush-k-xdk0d3r/
+- **X (Twitter):** https://x.com/xDK0d3r
 
 ---
 
