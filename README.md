@@ -58,6 +58,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Dhanush K** (xDK0d3r)
+**Dhanush K** | xDK0d3r
 
 Python Backend Developer focused on building practical projects and continuously improving through hands-on learning.
