@@ -39,7 +39,7 @@ This portfolio serves as a central place to explore my work as a developer, incl
 
 - **GitHub:** https://github.com/xDK0d3r
 - **Dev.to:** https://dev.to/xdk0d3r
-- **LinkedIn:** https://www.linkedin.com/in/dhanush-k-xdk0d3r/
+- **LinkedIn:** https://www.linkedin.com/in/xdk0d3r/
 - **X (Twitter):** https://x.com/xDK0d3r
 
 ---
