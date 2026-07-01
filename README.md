@@ -35,12 +35,6 @@ This portfolio serves as a central place to explore my work as a developer, incl
 
 ---
 
-## 📂 Repository
-
-This repository contains the source code for my personal portfolio website.
-
----
-
 ## 🔗 Connect with Me
 
 - **GitHub:** https://github.com/xDK0d3r
